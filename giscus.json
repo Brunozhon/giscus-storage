@@ -2,5 +2,6 @@
   "origins": [
     "https://brunozhon.github.io/",
     "https://the-bruno-store.github.io/"
-  ]
+  ],
+  "defaultCommentOrder": "newest"
 }
